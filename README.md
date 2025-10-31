@@ -15,4 +15,4 @@ Diseñar una solución accesible para empleadores independientes que facilite la
 
 ## Enlace al prototipo
 
-[Figma - Mockups Software plataforma de empleo]([https://www.figma.com/community/file/1566165778966666236])
+[Figma - Mockups Software plataforma de empleo](https://www.figma.com/community/file/1566165778966666236)
